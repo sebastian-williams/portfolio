@@ -10,7 +10,7 @@ Bachelor of Arts in Linguistics, Princeton University, 2023
 
 ### The Carter Center Quarterly Review Q2 2022
 - Quarterly Review of Syrian Political and Military Dynamics: April – June 2022, The Carter Center
-- <link "https://www.cartercenter.org/resources/pdfs/peace/conflict_resolution/syria-conflict/2022/quarterly-conflict-summary-april-june-2022final.pdf">
+- <https://www.cartercenter.org/resources/pdfs/peace/conflict_resolution/syria-conflict/2022/quarterly-conflict-summary-april-june-2022final.pdf>
 
 ### Indonesian Word Embeddings Efficacy
 - Junior Independent Research – Evaluating the Efficacy of Indonesian Word Embeddings on Various Processing Tasks
