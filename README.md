@@ -1,18 +1,22 @@
 # Data Analyst and Database Manager
 
-### Education
+## Education
 Bachelor of Arts in Linguistics, Princeton University, 2023
 (GPA: 3.81)
 
-### Projects
-- LexiKanak - Comparative lexical database of the languages of New Caledonia and Southern Vanuatu, DOI: 10.5281/zenodo.10527422
-- Quarterly Review of Syrian Political and Military Dynamics: April – June 2022, The Carter Center – https://www.cartercenter.org/resources/pdfs/peace/conflict_resolution/syria-conflict/2022/quarterly-conflict-summary-april-june-2022final.pdf
+## Projects
+### LexiKanak
+- Comparative lexical database of the languages of New Caledonia and Southern Vanuatu, DOI: 10.5281/zenodo.10527422
+### The Carter Center Quarterly Review
+- Quarterly Review of Syrian Political and Military Dynamics: April – June 2022, The Carter Center
+- https://www.cartercenter.org/resources/pdfs/peace/conflict_resolution/syria-conflict/2022/quarterly-conflict-summary-april-june-2022final.pdf
+### Indonesian Word Embeddings Efficacy
 - Junior Independent Research – Evaluating the Efficacy of Indonesian Word Embeddings on Various Processing Tasks
 
-### Technical Skills
+## Technical Skills
 Python, Java, SQL, R, Power BI, GIS
 
-### Work Experience
+## Work Experience
 Princeton University, Program in Linguistics, Research Assistant – Princeton, NJ	Jun 2021 – Present
 - I collect, clean, and enter linguistic data, reporting findings weekly to my supervisor, and analyzing data to discover interesting historical patterns and trends. Uses Excel and Google Sheets.
 - I reconstruct historical word forms for the New Caledonian language group to support research of Prof. Florian Lionnet – research primarily conducted in French. ~20 hrs/week
