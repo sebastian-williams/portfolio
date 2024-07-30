@@ -1,8 +1,8 @@
-# Data Analyst
+# Data Analyst and Database Manager
 
 ### Education
 Bachelor of Arts in Linguistics, Princeton University, 2023
-GPA: 3.81
+(GPA: 3.81)
 
 ### Projects
 - LexiKanak - Comparative lexical database of the languages of New Caledonia and Southern Vanuatu, DOI: 10.5281/zenodo.10527422
