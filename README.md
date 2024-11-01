@@ -1,4 +1,4 @@
-# Data Analyst and Database Manager
+# Data Analyst and Research Assistant
 
 ## Education
 Bachelor of Arts in Linguistics, Princeton University, 2023
